@@ -6,7 +6,7 @@
   * To add: write to file as stream.
 
 2. `pull_url.py` Use python script to pull all urls from the generated xml file
-  * currently not working, should use a xml parser and XPATH query to pull all values
+  * NOT WORKING, should use a xml parser and XPATH query to pull all values
   * Workaround - find and replace opening tags with blank strings
 
 3. In terminal, run `get_info.js` to scrape data from URL's gathered in step 2
